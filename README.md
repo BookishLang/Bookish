@@ -25,7 +25,7 @@ What we currently support (Language):
 ∞ Functions (partial, non-partial)
 ∞ Conditions (if/else if)
 ∞ Definition types: int, float, string, bool
-∞ Operations: ^ / + - * & || == 
+∞ Operations: ^ / + - & || == 
 ∞ init Constructor for classes
 ```
 
