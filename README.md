@@ -7,6 +7,11 @@ What we currently support (IDE):
 ```
 ∞ Compilation of apps
 ∞ Encryption of apps created in the IDE
+∞ Custom Compiler (Like JIT, but quicker; it compiles in 0-2 seconds)
+∞ IntelliSense
+∞ Code autocomplete/autosuggestions
+∞ Resize mode, fullscreen mode
+∞ IDE Settings
 ```
 
 What we currently support (Language):
