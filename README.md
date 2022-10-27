@@ -23,7 +23,7 @@ What we currently support (Language):
 ∞ Type inferance
 ∞ Nil support
 ∞ Functions (partial, non-partial)
-∞ Conditions (if/else if)
+∞ Conditions (if/else/else if/while)
 ∞ Definition types: int, float, string, bool
 ∞ Operations: ^ / * + - & || == 
 ∞ init Constructor for classes
