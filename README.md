@@ -39,7 +39,7 @@ class bookish {
     int x = 1;
     bool isTrue = false;
 
-    void Example() {
+    func Example() {
         
         if (x == 1) {
             isTrue = true;
@@ -51,7 +51,11 @@ class bookish {
         }
         
     }
-}            
+}        
+
+bookish bksh = new bookish();
+
+bksh.Example(); 
 ```
 
 Sample (Non-OOP):
