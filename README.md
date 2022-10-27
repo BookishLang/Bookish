@@ -43,9 +43,11 @@ class bookish {
         
         if (x == 1) {
             isTrue = true;
+            print "True";
         }
         else {
             isTrue = false;
+            print "False";
         }
         
     }
@@ -59,9 +61,11 @@ bool isTrue = false;
 
 if (x == 1) {
     isTrue = true;
+    print "True";
 }
 else {
     isTrue = false;
+    print "False";
 }
 ```
 
