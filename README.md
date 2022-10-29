@@ -46,6 +46,8 @@ We are also adding in **GUI to Bookish IDE**, therefore people are able to creat
 
 These are the **usual timings** people will get once they compile an app programmed in **Bookish**.
 
+## Code Samples
+
 Sample (OOP):
 ```cs
 
