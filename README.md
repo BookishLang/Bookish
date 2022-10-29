@@ -34,6 +34,18 @@ What we currently support (Language):
 Arrays are currently not supported, but are being worked on.
 We are also adding in **GUI to Bookish IDE**, therefore people are able to create professional forms/pages with **Bookish**.
 
+**∞ Usual Compilation & Run Timings:**
+```
+24ms - 24 milliseconds to compile & run
+23ms - 23 milliseconds to compile & run
+72ms - 72 milliseconds to compile & run
+48ms - 48 milliseconds to compile & run
+17ms - 17 milliseconds to compile & run
+87ms - 87 milliseconds to compile & run
+```
+
+These are the **usual timings** people will get once they compile an app programmed in **Bookish**.
+
 Sample (OOP):
 ```cs
 
