@@ -7,7 +7,7 @@ But for the programming language, we will implement a **cross-platform virtual m
 
 What we currently support (IDE):
 ```
-∞ Compilation of apps
+∞ Compilation of apps without the dependency of system hardware
 ∞ Encryption of apps created in the IDE
 ∞ Custom Compiler (Like JIT, but quicker; it compiles in 0-2 seconds)
 ∞ IntelliSense
