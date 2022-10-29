@@ -49,7 +49,7 @@ These are the **usual timings** people will get once they compile an app program
 ```
 - Errors in the code which were undetected
 - Harsh hardware (Which the IDE depends on, so if it's bad, it will be slower)
-- Code in the length of 100,000 —— 1,000,000 lines (runtime will be extremely slow if it is a repeated process)
+- Code in the length of 100,000 —— 1,000,000 lines (runtime will be extremely slow if the code is a repeated process)
 ```
 
 ## Code Samples
