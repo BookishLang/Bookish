@@ -44,7 +44,13 @@ We are also adding in **GUI to Bookish IDE**, therefore people are able to creat
 87ms - 87 milliseconds to compile & run
 ```
 
-These are the **usual timings** people will get once they compile an app programmed in **Bookish**.
+These are the **usual timings** people will get once they compile an app programmed in **Bookish**. It's very rare to get over **0 seconds** when compiling & running a Bookish application. The cause of the compiler **taking over 0-1 seconds to compile** may be:
+
+```
+- Errors in the code which were undetected
+- Harsh hardware (Which the IDE depends on, so if it's bad, it will be slower)
+- Code in the length of 100,000 —— 1,000,000 lines (runtime will be extremely slow if it is a repeated process)
+```
 
 ## Code Samples
 
