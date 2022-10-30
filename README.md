@@ -97,7 +97,7 @@ else {
 }
 ```
 
-We provide **encryption** to projects using your own **Bookish Key**.
+We provide **encryption** to projects using your project **Bookish Key**.
 
 ## What's a Bookish key?
 
