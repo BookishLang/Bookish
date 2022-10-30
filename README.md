@@ -37,6 +37,8 @@ We are also adding in **GUI to Bookish IDE**, therefore people are able to creat
 **∞ Usual Compilation & Run Timings:**
 ```
 24ms - 24 milliseconds to compile & run
+27ms - 27 milliseconds to compile & run
+21ms - 21 milliseconds to compile & run
 23ms - 23 milliseconds to compile & run (most common)
 72ms - 72 milliseconds to compile & run
 48ms - 48 milliseconds to compile & run
