@@ -21,7 +21,7 @@ What we currently support (Language):
 ∞ Object oriented programming/Non-object oriented programming
 ∞ Quoted strings
 ∞ Definitions
-∞ Classes (no inheritence)
+∞ Classes
 ∞ Type inferance
 ∞ Nil support
 ∞ Functions (partial, non-partial)
