@@ -26,7 +26,7 @@ What we currently support (Language):
 ∞ Nil support
 ∞ Functions (partial, non-partial)
 ∞ Conditions (if/else/else if/while)
-∞ Definition types: int, float, string, bool
+∞ Definition types: int, float, string, bool, char (printing unsupported for char)
 ∞ Operations: ^ / * + - & % %% || | == !=
 ∞ init Constructor for classes
 ```
