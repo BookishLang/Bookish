@@ -98,7 +98,7 @@ else {
 ```
 
 ### Preview:
-![image](https://user-images.githubusercontent.com/84229419/198886695-4d49a2e0-dce7-4dbe-9763-30392e324015.png)
+![image](https://user-images.githubusercontent.com/84229419/198892107-bf10618f-1abe-4731-82c8-790c2dbff8aa.png)
 
 
 We provide **encryption** to projects using a **Bookish Key**.
