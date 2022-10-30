@@ -97,6 +97,10 @@ else {
 }
 ```
 
+### Preview:
+![image](https://user-images.githubusercontent.com/84229419/198886695-4d49a2e0-dce7-4dbe-9763-30392e324015.png)
+
+
 We provide **encryption** to projects using a **Bookish Key**.
 
 ## What's a Bookish key?
