@@ -32,7 +32,7 @@ What we currently support (Language):
 ```
 
 Arrays are currently not supported, but are being worked on.
-We are also adding in **GUI to Bookish IDE**, therefore people are able to create professional forms/pages with **Bookish**.
+We are also adding in **GUI to Bookish IDE**, therefore people are able to create professional apps with **Bookish**.
 
 **∞ Usual Compilation & Run Timings:**
 ```
