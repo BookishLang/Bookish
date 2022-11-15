@@ -1,5 +1,5 @@
 # <img src="https://media.discordapp.net/attachments/916226674071339010/1033365399485562950/Bookish.png?width=30&height=30" alt="#"> Bookish
-Bookish is a very simple cross-platform programming language that can be considered as an **OOP language**, however Bookish **does not depend on OOP**. This page is for the documentation, introduction of Bookish.
+Bookish is a low-level simple-to-learn cross-platform programming language that can be considered as an **OOP language**, however Bookish **does not depend on OOP**. This page is for the documentation, introduction of Bookish.
 
 You are also able to ask for help via discussions, submit any issues you encounter or any requests. This can also be considered the help/issues/feature request page of the **Bookish IDE**. If you're wondering why we only have an `.exe` for Windows in our IDE Releases, that's because the **IDE is supported on Windows only**, however you can probably use **Wine** on Linux to run the IDE.
 
@@ -36,14 +36,10 @@ We are also adding in **GUI to Bookish IDE**, therefore people are able to creat
 
 **∞ Usual Compilation & Run Timings:**
 ```
-24ms - 24 milliseconds to compile & run
-27ms - 27 milliseconds to compile & run
-21ms - 21 milliseconds to compile & run
-23ms - 23 milliseconds to compile & run (most common)
-72ms - 72 milliseconds to compile & run
-48ms - 48 milliseconds to compile & run
-17ms - 17 milliseconds to compile & run
-87ms - 87 milliseconds to compile & run
+41ms - 41 milliseconds to compile & run
+130ms - 130 milliseconds to compile & run
+157s - 157 milliseconds to compile & run
+235ms - 235 milliseconds to compile & run (most common)
 ```
 
 These are the **usual timings** people will get once they compile an app programmed in **Bookish**. It's very rare to get over **0 seconds** when compiling & running a Bookish application. The cause of the compiler **taking over 0-1 seconds to compile** may be:
