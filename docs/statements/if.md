@@ -95,4 +95,4 @@ else {
 }
 ```
 
-It's a very common way to make create conditional statements depending on a value that your app may expect to return. However, you're also able to use `while` on Bookish.
+It's a very common way to create conditional statements depending on a value that your app may expect to return. However, you're also able to use `while` on Bookish.
