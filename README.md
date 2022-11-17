@@ -53,7 +53,7 @@ These are the **usual timings** people will get once they compile an app program
 ## How it works
 
 ![image](https://user-images.githubusercontent.com/84229419/201938375-299a2fa6-226b-4eaa-8747-5bdc766cc9cd.jpg)
-The speed mainly depends on the VM speed, which depends on your **computer performance**. However, even when your device may be crappy, it will (should) in lower than 1-2 seconds.
+The speed mainly depends on the VM speed, which depends on your **computer performance**. However, even when your device may be crappy, it will (should) run in lower than 1-2 seconds.
 
 
 ## Code Samples
