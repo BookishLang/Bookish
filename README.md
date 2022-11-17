@@ -3,7 +3,7 @@ Bookish is a low-level simple-to-learn cross-platform programming language that 
 
 You are also able to ask for help via discussions, submit any issues you encounter or any requests. This can also be considered the help/issues/feature request page of the **Bookish IDE**. If you're wondering why we only have an `.exe` for Windows in our IDE Releases, that's because the **IDE is supported on Windows only**, however you can probably use **Wine** on Linux to run the IDE.
 
-But for the programming language, we will implement a **cross-platform virtual machine** for Bookish to run on **Windows, Mac, Linux**. The `runtime` and `compilation time` are promised to be the same, unless your computer has **harsh issues**.
+But for the programming language, we will implement a **cross-platform virtual machine** for Bookish to run on **Windows, Mac, Linux**. The `runtime` and `compilation time` are promised to be the same, unless your computer has **harsh performance issues**.
 
 What we currently support (IDE):
 ```
