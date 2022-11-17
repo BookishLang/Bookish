@@ -38,7 +38,7 @@ We are also adding in **GUI to Bookish IDE**, therefore people are able to creat
 ```
 41ms - 41 milliseconds to compile & run
 130ms - 130 milliseconds to compile & run
-157s - 157 milliseconds to compile & run
+157ms - 157 milliseconds to compile & run
 235ms - 235 milliseconds to compile & run (most common)
 ```
 
