@@ -1,6 +1,8 @@
 # <img src="https://media.discordapp.net/attachments/916226674071339010/1033365399485562950/Bookish.png?width=30&height=30" alt="#"> Bookish
 Bookish is a low-level simple-to-learn cross-platform programming language that can be considered as an **OOP language**, however Bookish **does not depend on OOP**. This page is for the documentation, introduction of Bookish.
 
+# P.S. This project will likely not be continued, as it was solely for experience. To also note, I never released the IDE publicly unfortunately.
+
 You are also able to ask for help via discussions, submit any issues you encounter or any requests. This can also be considered the help/issues/feature request page of the **Bookish IDE**. If you're wondering why we only have an `.exe` for Windows in our IDE Releases, that's because the **IDE is supported on Windows only**, however you can probably use **Wine** on Linux to run the IDE.
 
 But for the programming language, we will implement a **cross-platform virtual machine** for Bookish to run on **Windows, Mac, Linux**. The `runtime` and `compilation time` are promised to be the same, unless your computer has **harsh performance issues**.
@@ -46,8 +48,8 @@ These are the **usual timings** people will get once they compile an app program
 
 ```
 - Errors in the code which were undetected
-- Low-end hardware (Which the IDE depends on, so if it's bad, it will be slower)
-- Code in the length range of 100,000 —— 1,000,000 lines (runtime will be extremely slow if the code is a repeated process)
+- Low-end hardware (Speed depends on hardware)
+- Code in the length of over 1,000+ lines (repeated code slows down runtime as well)
 ```
 
 ## How it works
